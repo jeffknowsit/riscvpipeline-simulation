@@ -2,6 +2,7 @@
 
 A modern, interactive **visual lab** for B.Tech **Computer Organization & Architecture** that demonstrates how **instruction scheduling** reduces **pipeline stalls** and improves **CPI** in a 5‑stage **RISC‑V** pipeline, inspired by the RIPES simulator.
 
+Deployed Link :- https://riscvpipeline-simulation.vercel.app/
 ---
 
 ## 🚀 Purpose
